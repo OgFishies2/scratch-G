@@ -132,8 +132,8 @@ class CloudLink {
 
 	getInfo () {
 		return {
-			"id": 'serverG',
-			"name": 'server G',
+			"id": 'scratchG',
+			"name": 'scratch-G',
 			"blockIconURI": this.SG_block,
 			"menuIconURI": this.SG_icon,
 			color1: '#ECA90B',
